@@ -9,8 +9,8 @@ that expects a simple Node interface for a Node.
 
 # Reference
 
-[Minimax](https://en.wikipedia.org/wiki/Minimax)
-[Alpha Beta Pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning)
-[Negamax](https://en.wikipedia.org/wiki/Negamax)
-[Solving Connect 4: how to build a perfect AI](http://blog.gamesolver.org/)
-[PascalPons/connect4 on Github](https://github.com/PascalPons/connect4)
+- [Minimax](https://en.wikipedia.org/wiki/Minimax)
+- [Alpha Beta Pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning)
+- [Negamax](https://en.wikipedia.org/wiki/Negamax)
+- [Solving Connect 4: how to build a perfect AI](http://blog.gamesolver.org/)
+- [PascalPons/connect4 on Github](https://github.com/PascalPons/connect4)
