@@ -1,5 +1,4 @@
 ﻿using MiniMax;
-using System.Data;
 using System.Text;
 
 namespace MiniMaxTests
